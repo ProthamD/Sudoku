@@ -1,6 +1,6 @@
 # Sudoku Solver & Generator in C++
 
-![Sudoku Example](https://via.placeholder.com/400x200?text=Sudoku+Demo) <!-- Replace with actual image -->
+<!-- Replace with actual image -->
 
 A C++ implementation of a Sudoku puzzle solver and generator using backtracking algorithm with customizable difficulty levels.
 
